@@ -1,0 +1,19 @@
+{
+  "name": "test-ui",
+  "version": "1.0.0",
+  "description": "用于测试 monorepo",
+  "author": "Leo <464362353@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/test-ui.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
